@@ -189,7 +189,7 @@ export default function Portfolio() {
                 Universal Engineering College, Kerala
               </p>
               <p className="text-gray-600 mt-1">
-                2022 – 2026 | CGPA: 9.59
+                2022 – 2026 | CGPA: 9.6
               </p>
             </div>
 
